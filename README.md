@@ -41,17 +41,17 @@ python app.py
 
 
 
-## What you will create
+## What have I done?
 
-In this tutorial, I will guide you through the process of building a chatbot that can carry out conversations with users using natural language processing.
+I'll walk you through the process of creating a chatbot that engages in conversations with users through natural language processing.
 
-To start, we will be using Microsoft DialoGPT, a pre-trained language model that can generate human-like responses to given prompts. We will be integrating DialoGPT with Flask, a popular Python web framework, to create a web application that can communicate with users via a chat interface.
+We will be leveraging Microsoft DialoGPT, a pre-trained language model known for generating human-like responses to prompts. To build our web application, we will integrate DialoGPT with Flask, a popular Python web framework, allowing for seamless communication with users via a chat interface.
 
-For the front end of our application, we will be using HTML, CSS, and JavaScript to create a visually appealing and interactive chat interface. Additionally, we will be using jQuery to handle the HTTP requests that are made to the backend server.
+For the front end, we will use HTML, CSS, and JavaScript to design an attractive and interactive chat interface. Additionally, we will incorporate jQuery to manage the HTTP requests sent to our backend server.
 
-Throughout the tutorial, I will provide step-by-step instructions on how to set up your development environment, install the necessary dependencies, and create the required files and code for the application. I will also explain how to train and fine-tune the DialoGPT model to improve the accuracy of its responses.
+This tutorial will provide detailed, step-by-step guidance on setting up your development environment, installing necessary dependencies, and creating the required files and code for the application. I will also cover how to train and fine-tune the DialoGPT model to enhance response accuracy.
 
-By the end of this tutorial, you will have a fully functional chatbot that can engage in conversations with users, and you will have gained valuable experience in using Microsoft DialoGPT, Flask, and web development technologies such as HTML, CSS, and JavaScript.
+By the end of this tutorial, you will have a fully operational chatbot capable of conversing with users, and you will have gained valuable experience with Microsoft DialoGPT, Flask, and web development technologies such as HTML, CSS, and JavaScript.
 
 # ChatBot Link
 The Chatbot is constructed using the Microsoft/DialoGPT-medium model.
@@ -60,7 +60,7 @@ The Chatbot is constructed using the Microsoft/DialoGPT-medium model.
 https://huggingface.co/microsoft/DialoGPT-medium
 ```
 
-# User-Html
+# User-HTML
 
 ```
 var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + user_input + '<span class="msg_time_send">'+ time + 
