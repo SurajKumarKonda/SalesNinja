@@ -47,7 +47,7 @@ I'll walk you through the process of creating a chatbot that engages in conversa
 
 We will be leveraging Microsoft DialoGPT, a pre-trained language model known for generating human-like responses to prompts. To build our web application, we will integrate DialoGPT with Flask, a popular Python web framework, allowing for seamless communication with users via a chat interface.
 
-For the front end, we will use HTML, CSS, and JavaScript to design an attractive and interactive chat interface. Additionally, we will incorporate jQuery to manage the HTTP requests sent to our backend server.
+For the front-end, we will use HTML, CSS, and JavaScript to design an attractive and interactive chat interface. Additionally, we will incorporate jQuery to manage the HTTP requests sent to our backend server.
 
 This tutorial will provide detailed, step-by-step guidance on setting up your development environment, installing necessary dependencies, and creating the required files and code for the application. I will also cover how to train and fine-tune the DialoGPT model to enhance response accuracy.
 
